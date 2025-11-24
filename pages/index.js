@@ -1,8 +1,7 @@
 export default function Home() {
-
-return (
+  return (
     <div style={{ padding: 24 }}>
-        <h1>Obrigado por ser minha companheira!</h1>
+      <h1>Obrigado por ser minha companheira!</h1>
     </div>
-    );
+  );
 }
